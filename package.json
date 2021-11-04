@@ -1,6 +1,6 @@
 {
   "name": "react-start-transition",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React 18 startTransition polyfill",
   "main": "dist/es5/index.js",
   "repository": "git@github.com:zzarcon/react-start-transition.git",
